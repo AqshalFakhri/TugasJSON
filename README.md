@@ -1,0 +1,5 @@
+AqshalFakhri Eka Surya Saputra (362358302071)
+![Screenshot 2024-10-15 152515](https://github.com/user-attachments/assets/3d0b3a5a-c2a1-4aa3-8c25-1615061b5822)
+![Screenshot 2024-10-15 152855](https://github.com/user-attachments/assets/46614130-a89f-4a43-ad4f-97088805f64f)
+![Screenshot 2024-10-15 153031](https://github.com/user-attachments/assets/88a2a8d9-7b3d-48a4-b19e-eb32d08b7a81)
+![Screenshot 2024-10-15 153848](https://github.com/user-attachments/assets/f2519139-13dc-45d2-9a9f-ee1e80167005)
