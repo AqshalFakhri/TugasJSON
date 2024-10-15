@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<books>
+  <book id="1">
+    <title>Menguasai Flutter</title>
+    <author>Budi Santoso</author>
+  </book>
+  <book id="2">
+    <title>JavaScript Lanjutan</title>
+    <author>Rina Wijaya</author>
+  </book>
+  <book id="3">
+    <title>Python untuk Data Science</title>
+    <author>Andi Prasetyo</author>
+  </book>
+  <book id="4">
+    <title>React Native dalam Aksi</title>
+    <author>Dewi Lestari</author>
+  </book>
+  <book id="5">
+    <title>Memahami Algoritma</title>
+    <author>Siti Nurhaliza</author>
+  </book>
+</books>
